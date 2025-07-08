@@ -2,7 +2,7 @@
 >A 2D grid pathfinding agent that uses AI search algorithms to navigate from point A to point B while avoiding obstacles and considering terrain costs.
 
 ## Features
-* Modular implementations of BFS, DFS, GBFS, and A* algorithms for path finding.
+* Modular implementations of BFS, DFS, GBFS, and A* algorithms for pathfinding.
 * Real-time visualization using Matplotlib, with path rendering and keyboard exit controls (q, ESC).
 * Polygon-based spatial detection for enclosures and turfs, with polygon, edge, and corner checks.
 * Weighted movement costs applied per step, with extra cost when crossing turf.
