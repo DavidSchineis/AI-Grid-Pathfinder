@@ -2,32 +2,31 @@
 >A 2D grid pathfinding agent that uses AI search algorithms to navigate from point A to point B while avoiding obstacles and considering terrain costs.
 
 ## Features
-This project uses a path finding agent that implements different search algorithms to go from a starting point to a end point.
-The grid world is defined by the txt files in TestingGrid folder.
-This project consists of the following files:
-    search.py: Main script to run the program
-    grid.py: Defines the grid and visualizaton
-    utils.py: Contains data structures for use
-    collisions.py: Defines how obstables are handled
-    bfs.py: Implements breadth first search for pathfinding
-    dfs.py: Implements depth first search for pathfinding
-    gbfs.py: Implements greedy best firsth search for pathfinding
-    astar.py: Implements A* search for pathfinding
+* Modular implementations of BFS, DFS, GBFS, and A* algorithms for path finding.
+* Real-time visualization using Matplotlib, with path rendering and keyboard exit controls (q, ESC).
+* Polygon-based spatial detection for enclosures and turfs, with polygon, edge, and corner checks.
+* Weighted movement costs applied per step, with extra cost when crossing turf.
+* Grid world is defined by txt files supporting custom enclosure and turf geometry.
 
-This project uses the following python libraries:
-    math
-    matplotlib
-    heapq
-    
 ## Breadth First Search (BFS)
+<p align="center">
+  <img src="assets/BFS2.png" alt="BFS Example" width="500">
+</p>
 
 ## Depth First Search (DFS)
+<p align="center">
+  <img src="assets/DFS2.png" alt="BFS Example" width="500">
+</p>
 
 ## Greedy Best First Search (GBFS)
+<p align="center">
+  <img src="assets/GBFS2.png" alt="BFS Example" width="500">
+</p>
 
 ## A-star Search (A*)
-
-
+<p align="center">
+  <img src="assets/A*2.png" alt="BFS Example" width="500">
+</p>
 
 ## How to Run
 Clone this repository
