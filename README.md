@@ -10,22 +10,22 @@
 
 ## Breadth First Search (BFS)
 <p align="center">
-  <img src="assets/BFS2.png" alt="BFS Example" width="500">
+  <img src="assets/BFS2.png" alt="BFS Example" width="300">
 </p>
 
 ## Depth First Search (DFS)
 <p align="center">
-  <img src="assets/DFS2.png" alt="BFS Example" width="500">
+  <img src="assets/DFS2.png" alt="BFS Example" width="300">
 </p>
 
 ## Greedy Best First Search (GBFS)
 <p align="center">
-  <img src="assets/GBFS2.png" alt="BFS Example" width="500">
+  <img src="assets/GBFS2.png" alt="BFS Example" width="300">
 </p>
 
 ## A-star Search (A*)
 <p align="center">
-  <img src="assets/A*2.png" alt="BFS Example" width="500">
+  <img src="assets/A*2.png" alt="BFS Example" width="300">
 </p>
 
 ## How to Run
