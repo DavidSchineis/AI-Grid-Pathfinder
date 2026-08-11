@@ -1,6 +1,8 @@
 # AI Grid Pathfinder
 >A 2D grid pathfinding agent that uses AI search algorithms to navigate from point A to point B while avoiding obstacles and considering terrain costs
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-inactive.svg)](LICENSE)
+
 ## Features
 * Modular implementations of BFS, DFS, GBFS, and A* algorithms for pathfinding.
 * Real-time visualization using Matplotlib, with path rendering and keyboard exit controls (q, ESC).
@@ -47,3 +49,7 @@ Run the simulation:
 ```bash
 python3 main.py
 ```
+
+## License
+
+MIT — see [LICENSE](LICENSE).
